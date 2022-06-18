@@ -1,0 +1,28 @@
+:root{
+    text-align: center;
+    color: #62efff;
+    background-color: #000051;
+    
+}
+label{
+    display: block;
+    margin-bottom: .5rem;
+    margin-top: .5rem;
+}
+
+#output{
+    margin-top: 2rem;
+    color:#62efff;
+    padding: .5rem;
+}
+
+button{
+    margin-top: 1.5rem;
+    border-radius: .5rem;
+    background-color:rgb(66, 73, 125);
+    color: aquamarine;
+}
+
+hr{
+    border: 0rem;
+}
