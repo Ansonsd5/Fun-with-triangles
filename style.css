@@ -26,3 +26,23 @@ button{
 hr{
     border: 0rem;
 }
+ul{
+    list-style-type: none;
+   
+}
+a{
+    
+    text-decoration: none;
+    color: aquamarine;
+    margin-right: 2rem;
+}
+nav{
+    display: block;
+    text-align: end;
+    margin: 1rem;
+    padding: 1rem;
+}
+
+.link-active{
+    font-weight: bold;
+}
